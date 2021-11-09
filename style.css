@@ -1,0 +1,38 @@
+body{
+    background-color: darksalmon;
+    background-image: url(gambar/wall.jpg);
+    position: relative;
+    padding-bottom: 58px;
+    min-height: 100vh;
+}
+form{
+    background-image: url(gambar/nelayan.png);
+    background-size: 550px;
+    background-repeat:no-repeat ;
+    background-position: bottom right;
+}
+
+table{
+    background-image: url(gambar/nelayan.png);
+    background-size: 550px;
+    background-repeat:no-repeat ;
+    background-position: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    position: fixed bottom;
+
+}
+
+section{
+    background-image: url(gambar/ikan.png);
+    background-size: 550px;
+    box-shadow: 5pt;
+    background-repeat:no-repeat ;
+    background-position: center;
+}
+
+
